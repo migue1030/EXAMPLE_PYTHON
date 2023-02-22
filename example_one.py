@@ -19,6 +19,7 @@ print(type(variable))
 """
 
 #tipos de datos
+
 variable1 = "Hola" #str (string)
 variable2 = 20     #int (entero)
 variable3 = 20.8   #float (decimal)

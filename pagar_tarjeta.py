@@ -6,4 +6,7 @@ saldo_deposito = float (452.9)
 saldo_restante = (saldo_disponible-saldo_deposito)
 
 print ("el cliente es ", cliente)
-print ("")
+print ("el numero de su tarjeta es", numero_tarjeta)
+print ("el saldo de su tarjeta es", saldo_disponible)
+print ("usted pago", saldo_deposito)
+print ("su saldo restante es ", saldo_restante)

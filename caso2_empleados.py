@@ -26,7 +26,7 @@ print ("El sueldo mensual del", empleados[3], "es de:", sueldo_empleado4,"$")
 print ("")
 
 dato_comparacion = int (1500000)
-valor_extra = float(0.06)
+valor_extra = float(0.06   )
 Horas_extra = int(3)
 if sueldo_empleado1 > dato_comparacion:
  print ("El salario del", empleados[0], "Es mayor al tope maximo")
